@@ -1,3 +1,5 @@
+[![ESLint](https://github.com/Catatomik/eslint-ts-fpos-no-base-to-string/actions/workflows/lint.yml/badge.svg)](https://github.com/Catatomik/eslint-ts-fpos-no-base-to-string/actions/workflows/lint.yml)
+
 # *typescript-eslint* false positive : `no-base-to-string`
 
 This repository illustrates a false positive of the typescript-eslint's rule `no-base-to-string`.  
