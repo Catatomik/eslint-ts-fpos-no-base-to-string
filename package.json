@@ -1,0 +1,21 @@
+{
+  "name": "eslint-ts-fpos-no-base-to-string",
+  "version": "1.0.0",
+  "description": "Illustrate a possible false positive of a typescript-eslint rule",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "typescript": "^5.3.3",
+    "typescript-eslint": "^7.1.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
