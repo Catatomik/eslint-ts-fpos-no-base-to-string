@@ -2,7 +2,7 @@
 
 # *typescript-eslint* false positive : `no-base-to-string`
 
-This repository illustrates a false positive of the typescript-eslint's rule `no-base-to-string`.  
+This repository illustrates a [false positive of the typescript-eslint's rule `no-base-to-string`](https://github.com/typescript-eslint/typescript-eslint/issues/8585).  
 It uses types from [`discord.js`](https://old.discordjs.dev/#/docs/discord.js/14.14.1/general/welcome)
 
 ## Setup
